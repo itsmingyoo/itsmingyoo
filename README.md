@@ -17,7 +17,7 @@
 
   ### :technologist: About Me : 
   I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from California.
-  - I'm currently finishing up App Academy and will be graduating this Friday.
+  - I'm an Alumni from App Academy. 
   - I'm constantly working on my projects and new ones to improve/expand my knowledge within this field.
   - In my free time, I practice leetcode to improve my DS&A skills.
   - If you're interested, check out my [porfolio](https://itsmingyoo.github.io/porfolio/).
